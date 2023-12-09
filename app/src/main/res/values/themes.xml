@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.FinalAssign" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <item name="colorPrimary">@color/lightgreen</item>
+        <item name="colorPrimary">@color/mainpurple</item>
     </style>
 
     <style name="Theme.FinalAssign" parent="Base.Theme.FinalAssign" />

@@ -3,14 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/lightgreen">
+    android:background="@color/lightpurple">
 
     <pl.droidsonroids.gif.GifTextView
         android:id="@+id/gifTextView"
         android:layout_width="180dp"
         android:layout_height="180dp"
         android:layout_marginBottom="264dp"
-        android:background="@drawable/splash_anim"
+        android:background="@drawable/loading"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
@@ -24,6 +24,7 @@
         android:layout_marginTop="34dp"
         android:layout_marginEnd="183dp"
         android:layout_marginBottom="211dp"
+        android:textColor="@color/white"
         android:text="인터넷보안공학과 2022671067 김주윤"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

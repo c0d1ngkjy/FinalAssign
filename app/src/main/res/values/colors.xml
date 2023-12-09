@@ -6,4 +6,6 @@
     <color name="red">#FF0000</color>
     <color name="blue">#0000FF</color>
     <color name="lightgrey">#44444444</color>
+    <color name="lightpurple">#f3ccff</color>
+    <color name="mainpurple">#b148d2</color>
 </resources>
